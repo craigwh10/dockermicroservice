@@ -1,4 +1,6 @@
-```bash
+Test project for creating a base project for node microservices
+
+```
 docker-compose up
 // bring the docker containers up
 
@@ -7,3 +9,4 @@ docker-compose up -d
 
 docker-compose down
 //bring the docker containers down
+```
