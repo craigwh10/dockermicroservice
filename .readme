@@ -1,0 +1,9 @@
+```bash
+docker-compose up
+// bring the docker containers up
+
+docker-compose up -d
+// Keep the docker containers up in the background.
+
+docker-compose down
+//bring the docker containers down
